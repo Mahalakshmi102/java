@@ -6,7 +6,7 @@ public class EvenNum {
         Scanner input = new Scanner(System.in);
         int num=input.nextInt();
 
-        for(int i=5~12122222222222222222222222222222222222222222222222222222222222222222222222222222222222;i<=num;i++){
+        for(int i=1;i<=num;i++){
             for(int s=i;s<=num-i;s--){
                 System.out.print("-");
             }
